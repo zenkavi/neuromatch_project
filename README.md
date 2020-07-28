@@ -3,27 +3,27 @@ This repo contains code for the Neuromatch Academy final project for group Final
 
 Team members: Zeynep Enkavi, Nicole MacIlvane, Katharine Crooks, Jo Fritzinger, and Iris Chang
 
-# Troubleshooting
+# Troubleshooting / requirements
 
-# Download HCP task data
+# HCP task data
 
-**Source:** https://osf.io/s4h8j/download/
-**Location:** neuromatch_project/notebooks
+**Source:** https://osf.io/s4h8j/download/  
+**Location:** neuromatch_project/notebooks  
 
-# Download HCP task data
+# HCP task data
 
-**Source:** https://osf.io/bqp7m/download/
-**Location:** neuromatch_project/notebooks
+**Source:** https://osf.io/bqp7m/download/  
+**Location:** neuromatch_project/notebooks  
 
-# Download output/ directory
+# output/ directory
 
-**Source:** Shared Google Drive Folder
-**Location:** neuromatch_project/notebooks
+**Source:** Shared Google Drive Folder  
+**Location:** neuromatch_project/notebooks  
 
-# Download ActFlowToolbox
+# ActFlowToolbox
 
-**Source:** ``git clone --recurse-submodules https://github.com/ColeLab/ActflowToolbox.git --quiet``
-**Location:** neuromatch_project/
+**Source:** ``git clone --recurse-submodules https://github.com/ColeLab/ActflowToolbox.git --quiet``  
+**Location:** neuromatch_project/  
 
 # Various Python packages
 
