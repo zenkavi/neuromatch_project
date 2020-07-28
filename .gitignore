@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+residual_fcs
+task_pred_fcs
+residuals
+task_preds
+rest_fcs
+hcp_rest
+hcp_task
