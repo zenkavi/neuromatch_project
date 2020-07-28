@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+ActflowToolbox/
+output
 residual_fcs
 task_pred_fcs
 residuals
