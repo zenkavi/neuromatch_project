@@ -1,10 +1,9 @@
 .ipynb_checkpoints
 ActflowToolbox/
-output
-residual_fcs
-task_pred_fcs
-residuals
-task_preds
-rest_fcs
+notebooks/output/residual_fcs
+notebooks/output/task_preds_fcs
+notebooks/output/residuals
+notebooks/output/task_preds
+notebooks/output/rest_fcs
 hcp_rest
 hcp_task
