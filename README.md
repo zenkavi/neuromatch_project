@@ -10,7 +10,7 @@ Team members: Zeynep Enkavi, Nicole MacIlvane, Katharine Crooks, Jo Fritzinger, 
 **Source:** https://osf.io/s4h8j/download/  
 **Location:** neuromatch_project/notebooks  
 
-## HCP task data
+## HCP rest data
 
 **Source:** https://osf.io/bqp7m/download/  
 **Location:** neuromatch_project/notebooks  
